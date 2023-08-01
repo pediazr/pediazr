@@ -1,6 +1,5 @@
 # Perfil de GitHub
 
-![Pedro Díaz]([(https://ibb.co/HrpC8Ry)]) 
 
 ¡Hola! 👋 Bienvenido/a a mi perfil de GitHub. Soy Pedro Díaz, un egresado del bootcamp Fullstack Java con habilidades en desarrollo web utilizando HTML, CSS, JavaScript y MySQL. También tengo experiencia con varios Entornos de Desarrollo Integrados (IDEs) como Visual Studio Code, IntelliJ y Eclipse, así como con MySQL Workbench. Estoy familiarizado/a con el framework Spring Boot, Bootstrap y jQuery.
 
