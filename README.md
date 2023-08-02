@@ -1,19 +1,19 @@
 # </Pedro Díaz>
 
 
-¡Hola! 👋 Bienvenido/a a mi perfil de GitHub. Soy Pedro Díaz, un egresado del bootcamp Fullstack Java con habilidades en desarrollo web utilizando HTML, CSS, JavaScript y MySQL. También tengo experiencia con varios Entornos de Desarrollo Integrados (IDEs) como Visual Studio Code, IntelliJ y Eclipse, así como con MySQL Workbench. Estoy familiarizado/a con el framework Spring Boot, Bootstrap y jQuery.
+¡Hola! 👋 Bienvenido/a a mi perfil de GitHub. Soy Pedro Díaz, un egresado del bootcamp Fullstack Java con habilidades en desarrollo web utilizando HTML, CSS, JavaScript y MySQL. También tengo experiencia con varios Entornos de Desarrollo Integrados (IDEs) como Visual Studio Code, IntelliJ y Eclipse, así como con MySQL Workbench. Estoy familiarizado con el framework Spring Boot, Bootstrap y jQuery.
 
 ## 🔭 En qué estoy trabajando
 
-Actualmente, estoy trabajando en expandir mis habilidades y construir proyectos prácticos para mejorar mis capacidades como Fullstack Java. Aunque aún no he trabajado con React y Angular, soy autodidacta y estoy dispuesto/a a aprender estas tecnologías para complementar mis habilidades.
+Actualmente, estoy trabajando en expandir mis habilidades y construir proyectos prácticos para mejorar mis capacidades como Fullstack Java. Aunque aún no he trabajado con React y Angular, soy autodidacta y estoy dispuesto a aprender estas tecnologías para complementar mis habilidades.
 
 ## 🌱 Aprendizaje y Desarrollo
 
-Como egresado reciente del bootcamp, tengo muchas ganas de seguir aprendiendo y creciendo como desarrollador/a. Mi próximo paso es adentrarme en el mundo de React y Angular para ampliar mis conocimientos en el desarrollo frontend. Estoy emocionado/a por aprender nuevas tecnologías y aplicarlas en proyectos interesantes.
+Como egresado reciente del bootcamp, tengo muchas ganas de seguir aprendiendo y creciendo como desarrollador. Mi próximo paso es adentrarme en el mundo de React y Angular para ampliar mis conocimientos en el desarrollo frontend. Estoy emocionado por aprender nuevas tecnologías y aplicarlas en proyectos interesantes.
 
 ## 👯‍♀️ Colaboremos
 
-Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proyecto relacionado con desarrollo web, Java, React o Angular, estaría encantado/a de contribuir y aprender en el proceso. ¡Juntos podemos construir algo genial!
+Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proyecto relacionado con desarrollo web, Java, React o Angular, estaría encantado de contribuir y aprender en el proceso. ¡Juntos podemos construir algo genial!
 
 ## 📫 Contáctame
 
@@ -26,7 +26,7 @@ Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proy
 
 ## 🌟 Proyectos Destacados
 
-### [SprintM6]([https://github.com/tuusuario/proyecto-1](https://github.com/pediazr/SprintM6))
+ [SprintM6](https://github.com/pediazr/SprintM6)
 
 Este repositorio contiene la solución tecnológica desarrollada para una empresa de asesorías en prevención de riesgos laborales. El sistema ofrece una plataforma web que permite administrar y gestionar los procesos necesarios para dar cumplimiento a la normativa vigente y mejorar la prevención de riesgos en empresas de diversos rubros.
 
@@ -40,11 +40,11 @@ Este repositorio contiene la solución tecnológica desarrollada para una empres
 
 [![My Skills](https://skillicons.dev/icons?i=,vscode,idea,eclipse,spring)](https://skillicons.dev)
 
-## 🏆 Logros en GitHub
+<!---## 🏆 Logros en GitHub
 
 - Menciona cualquier logro destacado relacionado con tu bootcamp, contribuciones a código abierto o proyectos personales.
 
-<!---## 📚 Artículos de Blog
+## 📚 Artículos de Blog
 
 Comparto mis experiencias y conocimientos relacionados con el desarrollo web y Java en mi [blog personal](https://tublog.com). Échale un vistazo para encontrar consejos útiles y tutoriales.
 --->
@@ -54,12 +54,13 @@ Creo en el poder del código abierto y he contribuido a varios proyectos. Puedes
 
 ## 📣 Conéctate conmigo
 
-Si estás interesado/a en Java, desarrollo web, React, Angular o simplemente quieres charlar sobre tecnología, no dudes en contactarme en LinkedIn o Twitter. ¡Siempre estoy emocionado/a de conocer a otros desarrolladores!
+Si estás interesado/a en Java, desarrollo web, React, Angular o simplemente quieres charlar sobre tecnología, no dudes en contactarme en LinkedIn.
+¡Siempre estoy emocionado/a de conocer a otros desarrolladores!
 
 
 
 ---
 
 ¡Gracias por visitar mi perfil de GitHub! Estoy emocionado/a por un emocionante viaje en el desarrollo de software y hacer contribuciones significativas a la comunidad tecnológica. ¡Vamos a codificar y crear algo asombroso! 🚀
-```
+---
 
