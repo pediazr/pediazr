@@ -36,7 +36,7 @@ Este repositorio contiene la solución tecnológica desarrollada para una empres
 
 - Lenguaje
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,mysql,java,vue)](https://skillicons.dev)
 
 - IDE
 
