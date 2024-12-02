@@ -18,7 +18,9 @@ Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proy
 ## 📫 Contáctame
 
 - Correo electrónico: [pedro.neox@gmail.com](mailto:pedro.neox@gmail.com)
-- LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pedro-d%C3%ADaz-87964973/)
+- LinkedIn: [Pedro Diaz Rivera](www.linkedin.com/in/pedro-díaz-87964973)
+
+)
 
 ## 📈 Estadísticas de GitHub
 
